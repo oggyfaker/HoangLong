@@ -7,4 +7,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oggyfaker&layout=compact&hide=html" alt="oggyfaker" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oggyfaker&show_icons=true&theme=tokyonight" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oggyfaker&show_icons=true&theme=dracula" alt="" /></p>
