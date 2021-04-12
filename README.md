@@ -1,4 +1,4 @@
-<h1 align="center"> “Everybody should learn to program a computer, because it teaches you how to think.” - Steve Job 
+<h1 align="center"> “Everybody should learn to program a computer, because it teaches you how to think.” - Steve Jobs
 </h1>
 
 <p align="center"> <br><img src="https://github.com/oggyfaker/oggyfaker/blob/master/oggy.gif" width="550px"><br><br>
