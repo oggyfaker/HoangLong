@@ -1,5 +1,4 @@
-# Welcome 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500" width="50"/> Relax And Code <img src="https://emojis.slackmojis.com/emojis/images/1605479278/11110/crewmate.gif?1605479278" width="50"/>
+<h1 align="center"> “Everybody should learn to program a computer, because it teaches you how to think.” - Steve Job 
 </h1>
 
 <p align="center"> <br><img src="https://github.com/oggyfaker/oggyfaker/blob/master/oggy.gif" width="550px"><br><br>
